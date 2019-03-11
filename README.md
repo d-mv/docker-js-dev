@@ -1,10 +1,10 @@
-# **Docker // Node/JS Environment **
+# Docker // Node/JS Environment
 
 ## What is this?
 
 This is a development environment setup for Docker container to work with Node/JS tools. This is a split from [Docker // Ruby](https://github.com/d-mv/docker-ruby-dev) to increase the effectivness.
 
-## **Container Contents**
+## Container Contents
 
 Container is based on latest Ubuntu and configured to setup some standard software and utilities to use, as well as Ruby specific. The shared folder mapped to `./data`.
 
@@ -23,7 +23,7 @@ _Standard:_
 - SQLite (off by default)
 - PostgreSQL (off by default)
 
-## **Use**
+## Use
 
 Mapped port **3000** to host's one **8080**. Mapped folder `~/Desktop/Projects` to client's `~/data`
 Download and use the following scripts (optional):
