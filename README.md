@@ -25,3 +25,4 @@ Use the following scripts (optional):
 - `_destroy.sh` - destroys container and image.
 - `exec.sh "command_to_execute"` - execute (login) with _docker_ as user.
 - `start.sh` - starts container.
+- `stop.sh` - stops and removes container.
